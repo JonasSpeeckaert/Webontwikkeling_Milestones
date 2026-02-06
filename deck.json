@@ -1,0 +1,152 @@
+[
+  {
+    "id": "CARD-001",
+    "name": "Treebeard, Gracious Host",
+    "description": "Treebeard is a legendary Ent who embodies patience and immense strength, rewarding those who gain life with his overwhelming presence.",
+    "manaValue": 6,
+    "isLegendary": true,
+    "releaseDate": "2023-06-23",
+    "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Treebeard%2C%20Gracious%20Host&format=image",
+    "rarity": "Mythic",
+    "types": ["Creature", "Treefolk"],
+    "cardSet": {
+      "id": "SET-001",
+      "name": "The Lord of the Rings: Tales of Middle-earth"
+    }
+  },
+  {
+    "id": "CARD-002",
+    "name": "Gluntch, the Bestower",
+    "description": "A generous jellyfish-like creature that offers gifts to all players, spreading resources across the battlefield.",
+    "manaValue": 4,
+    "isLegendary": true,
+    "releaseDate": "2022-04-29",
+    "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Gluntch%2C%20the%20Bestower&format=image",
+    "rarity": "Rare",
+    "types": ["Creature", "Jellyfish"],
+    "cardSet": {
+      "id": "SET-002",
+      "name": "Innistrad: Crimson Vow"
+    }
+  },
+  {
+    "id": "CARD-003",
+    "name": "Ajani's Pridemate",
+    "description": "A fierce warrior that grows stronger whenever its controller gains life.",
+    "manaValue": 2,
+    "isLegendary": false,
+    "releaseDate": "2015-07-17",
+    "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Ajani%27s%20Pridemate&format=image",
+    "rarity": "Uncommon",
+    "types": ["Creature", "Cat", "Soldier"],
+    "cardSet": {
+      "id": "SET-001",
+      "name": "The Lord of the Rings: Tales of Middle-earth"
+    }
+  },
+  {
+    "id": "CARD-004",
+    "name": "Celestial Unicorn",
+    "description": "A radiant unicorn that gains power whenever life is gained.",
+    "manaValue": 3,
+    "isLegendary": false,
+    "releaseDate": "2021-09-24",
+    "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Celestial%20Unicorn&format=image",
+    "rarity": "Common",
+    "types": ["Creature", "Unicorn"],
+    "cardSet": {
+      "id": "SET-002",
+      "name": "Innistrad: Crimson Vow"
+    }
+  },
+  {
+    "id": "CARD-005",
+    "name": "Healer's Hawk",
+    "description": "A small but effective flying creature with lifelink.",
+    "manaValue": 1,
+    "isLegendary": false,
+    "releaseDate": "2018-10-05",
+    "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Healer%27s%20Hawk&format=image",
+    "rarity": "Common",
+    "types": ["Creature", "Bird"],
+    "cardSet": {
+      "id": "SET-002",
+      "name": "Innistrad: Crimson Vow"
+    }
+  },
+  {
+    "id": "CARD-006",
+    "name": "Sam, Loyal Attendant",
+    "description": "Sam supports his allies by creating food and sustaining life.",
+    "manaValue": 2,
+    "isLegendary": true,
+    "releaseDate": "2023-06-23",
+    "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Sam%2C%20Loyal%20Attendant&format=image",
+    "rarity": "Rare",
+    "types": ["Creature", "Halfling"],
+    "cardSet": {
+      "id": "SET-001",
+      "name": "The Lord of the Rings: Tales of Middle-earth"
+    }
+  },
+  {
+    "id": "CARD-007",
+    "name": "Scavenging Ooze",
+    "description": "An ooze that consumes graveyards to grow stronger and gain life.",
+    "manaValue": 2,
+    "isLegendary": false,
+    "releaseDate": "2024-09-30",
+    "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Scavenging%20Ooze&format=image",
+    "rarity": "Rare",
+    "types": ["Creature", "Ooze"],
+    "cardSet": {
+      "id": "SET-002",
+      "name": "Innistrad: Crimson Vow"
+    }
+  },
+  {
+    "id": "CARD-008",
+    "name": "Dawnbringer Cleric",
+    "description": "A versatile cleric offering healing or removal when entering the battlefield.",
+    "manaValue": 2,
+    "isLegendary": false,
+    "releaseDate": "2021-07-23",
+    "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Dawnbringer%20Cleric&format=image",
+    "rarity": "Common",
+    "types": ["Creature", "Cleric"],
+    "cardSet": {
+      "id": "SET-002",
+      "name": "Innistrad: Crimson Vow"
+    }
+  },
+  {
+    "id": "CARD-009",
+    "name": "Heron of Hope",
+    "description": "A bird that benefits from lifegain strategies.",
+    "manaValue": 4,
+    "isLegendary": false,
+    "releaseDate": "2021-09-24",
+    "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Heron%20of%20Hope&format=image",
+    "rarity": "Uncommon",
+    "types": ["Creature", "Bird"],
+    "cardSet": {
+      "id": "SET-002",
+      "name": "Innistrad: Crimson Vow"
+    }
+  },
+  {
+    "id": "CARD-010",
+    "name": "Wose Pathfinder",
+    "description": "Wild folk that helps ramp mana through searching.",
+    "manaValue": 4,
+    "isLegendary": false,
+    "releaseDate": "2023-06-23",
+    "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Wose%20Pathfinder&format=image",
+    "rarity": "Common",
+    "types": ["Creature", "Human Shaman"],
+    "cardSet": {
+      "id": "SET-001",
+      "name": "The Lord of the Rings: Tales of Middle-earth"
+    }
+  }
+]
