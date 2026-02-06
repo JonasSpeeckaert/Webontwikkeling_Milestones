@@ -5,7 +5,7 @@
     "code": "LTR",
     "releaseYear": 2023,
     "isStandardLegal": false,
-    "logoUrl": "https://example.com/images/sets/ltr.png"
+    "logoUrl": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/lotr.jpg"
   },
   {
     "id": "SET-002",
@@ -13,6 +13,6 @@
     "code": "VOW",
     "releaseYear": 2021,
     "isStandardLegal": false,
-    "logoUrl": "https://example.com/images/sets/vow.png"
+    "logoUrl": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/crimsonvow.jpg"
   }
 ]

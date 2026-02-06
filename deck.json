@@ -7,7 +7,7 @@
     "isLegendary": true,
     "releaseDate": "2023-06-23",
     "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Treebeard%2C%20Gracious%20Host&format=image",
-    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/blob/main/images/treebeard.jpg",
+    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/treebeard.jpg",
     "rarity": "Mythic",
     "types": ["Creature", "Treefolk"],
     "cardSet": {
@@ -23,7 +23,7 @@
     "isLegendary": true,
     "releaseDate": "2022-04-29",
     "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Gluntch%2C%20the%20Bestower&format=image",
-    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/blob/main/images/gluntch.jpg",
+    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/gluntch.jpg",
     "rarity": "Rare",
     "types": ["Creature", "Jellyfish"],
     "cardSet": {
@@ -39,7 +39,7 @@
     "isLegendary": false,
     "releaseDate": "2015-07-17",
     "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Ajani%27s%20Pridemate&format=image",
-    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/blob/main/images/ajani_pridesmate.jpg",
+    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/ajani_pridesmate.jpg",
     "rarity": "Uncommon",
     "types": ["Creature", "Cat", "Soldier"],
     "cardSet": {
@@ -55,7 +55,7 @@
     "isLegendary": false,
     "releaseDate": "2021-09-24",
     "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Celestial%20Unicorn&format=image",
-    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/blob/main/images/unicorn.jpg",
+    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/unicorn.jpg",
     "rarity": "Common",
     "types": ["Creature", "Unicorn"],
     "cardSet": {
@@ -71,7 +71,7 @@
     "isLegendary": false,
     "releaseDate": "2018-10-05",
     "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Healer%27s%20Hawk&format=image",
-    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/blob/main/images/hawk.jpg",
+    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/hawk.jpg",
     "rarity": "Common",
     "types": ["Creature", "Bird"],
     "cardSet": {
@@ -87,7 +87,7 @@
     "isLegendary": true,
     "releaseDate": "2023-06-23",
     "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Sam%2C%20Loyal%20Attendant&format=image",
-    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/blob/main/images/sam.jpg",
+    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/sam.jpg",
     "rarity": "Rare",
     "types": ["Creature", "Halfling"],
     "cardSet": {
@@ -103,7 +103,7 @@
     "isLegendary": false,
     "releaseDate": "2024-09-30",
     "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Scavenging%20Ooze&format=image",
-    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/blob/main/images/ooze.jpg",
+    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/ooze.jpg",
     "rarity": "Rare",
     "types": ["Creature", "Ooze"],
     "cardSet": {
@@ -119,7 +119,7 @@
     "isLegendary": false,
     "releaseDate": "2021-07-23",
     "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Dawnbringer%20Cleric&format=image",
-    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/blob/main/images/cleric.jpg",
+    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/cleric.jpg",
     "rarity": "Common",
     "types": ["Creature", "Cleric"],
     "cardSet": {
@@ -135,7 +135,7 @@
     "isLegendary": false,
     "releaseDate": "2021-09-24",
     "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Heron%20of%20Hope&format=image",
-    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/blob/main/images/heron.jpg",
+    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/heron.jpg",
     "rarity": "Uncommon",
     "types": ["Creature", "Bird"],
     "cardSet": {
@@ -151,7 +151,7 @@
     "isLegendary": false,
     "releaseDate": "2023-06-23",
     "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Wose%20Pathfinder&format=image",
-    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/blob/main/images/pathfinder.jpg",
+    "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/pathfinder.jpg",
     "rarity": "Common",
     "types": ["Creature", "Human Shaman"],
     "cardSet": {
