@@ -13,6 +13,10 @@
     "cardSet": {
       "id": "SET-001",
       "name": "The Lord of the Rings: Tales of Middle-earth"
+      "code": "LTR",
+      "releaseYear": 2023,
+      "isStandardLegal": false,
+      "logoUrl": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/lotr.jpg"
     }
   },
   {
@@ -29,6 +33,10 @@
     "cardSet": {
       "id": "SET-002",
       "name": "Innistrad: Crimson Vow"
+      "code": "VOW",
+      "releaseYear": 2021,
+      "isStandardLegal": false,
+      "logoUrl": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/crimsonvow.jpg"
     }
   },
   {
@@ -45,6 +53,10 @@
     "cardSet": {
       "id": "SET-001",
       "name": "The Lord of the Rings: Tales of Middle-earth"
+      "code": "LTR",
+      "releaseYear": 2023,
+      "isStandardLegal": false,
+      "logoUrl": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/lotr.jpg"
     }
   },
   {
@@ -61,6 +73,10 @@
     "cardSet": {
       "id": "SET-002",
       "name": "Innistrad: Crimson Vow"
+      "code": "VOW",
+      "releaseYear": 2021,
+      "isStandardLegal": false,
+      "logoUrl": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/crimsonvow.jpg"
     }
   },
   {
@@ -77,6 +93,10 @@
     "cardSet": {
       "id": "SET-002",
       "name": "Innistrad: Crimson Vow"
+      "code": "VOW",
+      "releaseYear": 2021,
+      "isStandardLegal": false,
+      "logoUrl": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/crimsonvow.jpg"
     }
   },
   {
@@ -93,6 +113,10 @@
     "cardSet": {
       "id": "SET-001",
       "name": "The Lord of the Rings: Tales of Middle-earth"
+      "code": "LTR",
+      "releaseYear": 2023,
+      "isStandardLegal": false,
+      "logoUrl": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/lotr.jpg"
     }
   },
   {
@@ -109,6 +133,10 @@
     "cardSet": {
       "id": "SET-002",
       "name": "Innistrad: Crimson Vow"
+      "code": "VOW",
+      "releaseYear": 2021,
+      "isStandardLegal": false,
+      "logoUrl": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/crimsonvow.jpg"
     }
   },
   {
@@ -125,6 +153,10 @@
     "cardSet": {
       "id": "SET-002",
       "name": "Innistrad: Crimson Vow"
+      "code": "VOW",
+      "releaseYear": 2021,
+      "isStandardLegal": false,
+      "logoUrl": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/crimsonvow.jpg"
     }
   },
   {
@@ -141,6 +173,10 @@
     "cardSet": {
       "id": "SET-002",
       "name": "Innistrad: Crimson Vow"
+      "code": "VOW",
+      "releaseYear": 2021,
+      "isStandardLegal": false,
+      "logoUrl": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/crimsonvow.jpg"
     }
   },
   {
@@ -157,6 +193,10 @@
     "cardSet": {
       "id": "SET-001",
       "name": "The Lord of the Rings: Tales of Middle-earth"
+      "code": "LTR",
+      "releaseYear": 2023,
+      "isStandardLegal": false,
+      "logoUrl": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/lotr.jpg"
     }
   }
 ]
