@@ -12,7 +12,7 @@
     "types": ["Creature", "Treefolk"],
     "cardSet": {
       "id": "SET-001",
-      "name": "The Lord of the Rings: Tales of Middle-earth"
+      "name": "The Lord of the Rings: Tales of Middle-earth",
       "code": "LTR",
       "releaseYear": 2023,
       "isStandardLegal": false,
@@ -32,7 +32,7 @@
     "types": ["Creature", "Jellyfish"],
     "cardSet": {
       "id": "SET-002",
-      "name": "Innistrad: Crimson Vow"
+      "name": "Innistrad: Crimson Vow",
       "code": "VOW",
       "releaseYear": 2021,
       "isStandardLegal": false,
@@ -52,7 +52,7 @@
     "types": ["Creature", "Cat", "Soldier"],
     "cardSet": {
       "id": "SET-001",
-      "name": "The Lord of the Rings: Tales of Middle-earth"
+      "name": "The Lord of the Rings: Tales of Middle-earth",
       "code": "LTR",
       "releaseYear": 2023,
       "isStandardLegal": false,
@@ -72,7 +72,7 @@
     "types": ["Creature", "Unicorn"],
     "cardSet": {
       "id": "SET-002",
-      "name": "Innistrad: Crimson Vow"
+      "name": "Innistrad: Crimson Vow",
       "code": "VOW",
       "releaseYear": 2021,
       "isStandardLegal": false,
@@ -92,7 +92,7 @@
     "types": ["Creature", "Bird"],
     "cardSet": {
       "id": "SET-002",
-      "name": "Innistrad: Crimson Vow"
+      "name": "Innistrad: Crimson Vow",
       "code": "VOW",
       "releaseYear": 2021,
       "isStandardLegal": false,
@@ -112,7 +112,7 @@
     "types": ["Creature", "Halfling"],
     "cardSet": {
       "id": "SET-001",
-      "name": "The Lord of the Rings: Tales of Middle-earth"
+      "name": "The Lord of the Rings: Tales of Middle-earth",
       "code": "LTR",
       "releaseYear": 2023,
       "isStandardLegal": false,
@@ -132,7 +132,7 @@
     "types": ["Creature", "Ooze"],
     "cardSet": {
       "id": "SET-002",
-      "name": "Innistrad: Crimson Vow"
+      "name": "Innistrad: Crimson Vow",
       "code": "VOW",
       "releaseYear": 2021,
       "isStandardLegal": false,
@@ -152,7 +152,7 @@
     "types": ["Creature", "Cleric"],
     "cardSet": {
       "id": "SET-002",
-      "name": "Innistrad: Crimson Vow"
+      "name": "Innistrad: Crimson Vow",
       "code": "VOW",
       "releaseYear": 2021,
       "isStandardLegal": false,
@@ -172,7 +172,7 @@
     "types": ["Creature", "Bird"],
     "cardSet": {
       "id": "SET-002",
-      "name": "Innistrad: Crimson Vow"
+      "name": "Innistrad: Crimson Vow",
       "code": "VOW",
       "releaseYear": 2021,
       "isStandardLegal": false,
@@ -192,7 +192,7 @@
     "types": ["Creature", "Human Shaman"],
     "cardSet": {
       "id": "SET-001",
-      "name": "The Lord of the Rings: Tales of Middle-earth"
+      "name": "The Lord of the Rings: Tales of Middle-earth",
       "code": "LTR",
       "releaseYear": 2023,
       "isStandardLegal": false,
