@@ -3,7 +3,7 @@
     "id": "CARD-001",
     "name": "Treebeard, Gracious Host",
     "description": "Treebeard is a legendary Ent who embodies patience and immense strength, rewarding those who gain life with his overwhelming presence.",
-    "manaValue": 6,
+    "manaValue": 4,
     "isLegendary": true,
     "releaseDate": "2023-06-23",
     "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Treebeard%2C%20Gracious%20Host&format=image",
