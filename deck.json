@@ -108,7 +108,7 @@
     "releaseDate": "2023-06-23",
     "imageUrl": "https://api.scryfall.com/cards/named?fuzzy=Sam%2C%20Loyal%20Attendant&format=image",
     "imagePath": "https://raw.githubusercontent.com/JonasSpeeckaert/Webontwikkeling_Milestones/main/images/sam.jpg",
-    "rarity": "Rare",
+    "rarity": "Legendary",
     "types": ["Creature", "Halfling"],
     "cardSet": {
       "id": "SET-001",
